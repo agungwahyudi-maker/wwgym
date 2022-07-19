@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,700&display=swap");
+body {
+  font-family: "DM Sans", sans-serif;
+}
+.bg-kuning {
+  background-color: #fff500;
+}
+.jumbotron {
+  background-size: cover;
+}
+.jumbotron .judul {
+  font-size: 24px;
+  color: white;
+  font-weight: 700;
+}
+.jumbotron p {
+  font-size: 16px;
+  color: white;
+  font-weight: 400;
+}
+.tombol {
+  padding: 6px 20px;
+  border: 1px solid #fff500;
+  border-radius: 10px;
+}
+.tombol-full {
+  padding: 6px 20px;
+  border: 1px solid #fff500;
+  background-color: #fff500;
+  border-radius: 10px;
+  color: black;
+}
+.judul-section {
+  font-size: 18px;
+  font-weight: bold;
+}
+.kotak {
+  width: 158px;
+  height: 120px;
+  background-color: #000000;
+  border-radius: 5px;
+}
+.f-20-b {
+  font-size: 20px;
+  font-weight: bold;
+}
+.f-20-b-k {
+  font-size: 20px;
+  font-weight: bold;
+  color: #fff500;
+}
+.f-16 {
+  font-size: 16px;
+}
+.f-16-k {
+  font-size: 16px;
+  color: #fff500;
+  line-height: 1px;
+}
